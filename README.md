@@ -1,4 +1,4 @@
-# 💫 👋 About Me
+#👋 About Me
 
 Hey there! I'm Uzer Bagban, a Data Analyst & BI Enthusiast from Mumbai, India 🇮🇳<br>I love turning messy datasets into clean, meaningful insights that drive real decisions.
 
