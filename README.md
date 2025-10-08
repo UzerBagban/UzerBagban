@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on data analytic projects<br>🌱 I’m currently learning new technologies for data analysis
+# 💫 👋 About Me
+
+Hey there! I'm Uzer Bagban, a Data Analyst & BI Enthusiast from Mumbai, India 🇮🇳<br>I love turning messy datasets into clean, meaningful insights that drive real decisions.
+
+🔭 I’m currently working on data analytics and BI projects — building dashboards, automating workflows, and uncovering patterns behind the numbers.<br>🌱 I’m learning advanced Power BI, SQL optimization, and machine learning to take my analytics game to the next level.
+
+💡 I’m passionate about connecting data, design, and decision-making — from ETL pipelines to interactive dashboards.<br>⚙️ Tools I love: Python, SQL, Power BI, Tableau, Excel, and JIRA.
+
+📈 Always curious, always learning — because every dataset has a story to tell.
 
 
 ## 🌐 Socials:
